@@ -1,0 +1,2 @@
+# NeuroMIAI
+AI project
